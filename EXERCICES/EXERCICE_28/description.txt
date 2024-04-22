@@ -1,0 +1,24 @@
+Utilisation du passage par référence - Imprimer une liste d'invités
+Dans cet exercice, vous réécrirez l'exercice précédent sur la liste d'invités uniquement cette fois-ci en utilisant des variables de référence.
+
+Dans cet exercice, vous allez créer un programme qui sera utilisé pour imprimer la liste des invités à un événement, puis effacer la liste des invités une fois l'événement terminé.
+
+Commencez par compléter les prototypes de fonction print_guest_list et clear_guest_list qui reçoivent tous deux trois variables de référence de chaîne. Assurez-vous que les variables ne peuvent pas être modifiées dans la fonction print_guest_list en utilisant le mot-clé const dans la liste des paramètres.
+
+Maintenant que les prototypes de fonctions ont été déclarés, définissez en bas du fichier les deux fonctions.
+
+Les fonctions print_guest_list et clear_guest_list recevront les arguments de chaîne guest_1, guest_2 et guest_3 qui vous ont tous été fournis.
+
+La fonction print_guest_list doit imprimer la liste des invités dans l'ordre guest_1, guest_2 , guest_3, chaque entrée étant imprimée sur une nouvelle ligne. À des fins de test, veuillez vous assurer qu'une nouvelle ligne est imprimée après guest_3 soit via l'utilisation de endl ; ou le caractère de nouvelle ligne "\n".
+
+La fonction clear_guest_list doit remplacer les valeurs de chaîne contenues dans guest_1, guest_2 et guest_3 par la valeur de chaîne " ", un seul espace.
+
+Maintenant, à partir du corps de la fonction event_guest_list, effectuez les appels de fonction suivants dans cet ordre :
+
+print_guest_list
+
+clear_guest_list
+
+print_guest_list
+
+en passant guest_1, guest_2 et guest_3 à chaque appel de fonction.

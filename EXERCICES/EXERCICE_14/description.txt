@@ -1,0 +1,2 @@
+Boucle For - Somme des entiers impairs
+Écrivez du code qui utilise une boucle for pour calculer la somme des entiers impairs de 1 à 15 inclus. Le résultat final doit être stocké dans une variable entière nommée sum .

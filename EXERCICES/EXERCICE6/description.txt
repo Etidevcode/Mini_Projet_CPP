@@ -1,0 +1,6 @@
+Déclaration, initialisation et accès aux vecteurs
+Déclarez un vecteur d'entiers nommé vec et initialisez le vecteur à 10,20,30,40 et 50
+
+Modifiez le premier élément du vecteur pour qu'il soit 100 et modifiez le dernier élément du vecteur pour qu'il soit 1000 .
+
+Le vecteur final devrait alors être 100, 20, 30, 40 et 1 000.

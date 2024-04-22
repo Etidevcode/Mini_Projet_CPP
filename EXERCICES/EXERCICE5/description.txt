@@ -1,0 +1,4 @@
+Déclaration, initialisation et accès à un tableau
+Déclarez un tableau de 10 entiers nommé arr et initialisez le tableau pour que les 10 entiers soient 0 .
+
+Attribuez ensuite 100 au premier élément du tableau et 1000 au dernier élément du tableau.

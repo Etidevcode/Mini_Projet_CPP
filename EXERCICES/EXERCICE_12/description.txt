@@ -1,0 +1,12 @@
+Déclarations If imbriquées - Pouvez-vous conduire ?
+Dans cet exercice, vous utiliserez des instructions if imbriquées pour décider si quelqu'un peut conduire. Supposons que toute personne âgée de 16 ans ou plus puisse légalement conduire, mais qu'elle doive également posséder une voiture pour conduire.
+
+Si la personne n'a pas 16 ans ou plus, vous devez afficher : "Désolé, revenez dans n ans et assurez-vous de posséder une voiture à votre retour.", où n représente le nombre d'années restant avant que la personne n'atteigne 16 ans.
+
+Si la personne a 16 ans ou plus mais qu'elle ne possède PAS de voiture, alors votre programme devrait afficher : "Désolé, vous devez acheter une voiture avant de pouvoir conduire !" .
+
+Si la personne a 16 ans ou plus et qu'elle possède une voiture, alors votre programme devrait afficher « Oui, vous pouvez conduire ! »
+
+L'âge vous sera fourni, vous n'avez PAS besoin de déclarer l'âge. Nous fournirons également automatiquement une variable booléenne nommée has_car qui sera vraie si la personne possède une voiture ou fausse sinon. Nos cas de test fourniront différentes valeurs pour age et has_car pour tester votre code.
+
+Veuillez NE PAS fournir '\n' ou endl dans vos instructions d'affichage.

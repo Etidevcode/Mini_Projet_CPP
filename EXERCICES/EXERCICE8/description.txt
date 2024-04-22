@@ -1,0 +1,28 @@
+Utilisation des opérateurs arithmétiques
+Dans cet exercice, vous écrirez un programme qui utilise des opérateurs arithmétiques pour manipuler un nombre entier qui vous est fourni.
+
+Vous n'avez PAS besoin de déclarer le numéro, il est déjà déclaré et sera défini sur différentes valeurs par le testeur automatisé.
+
+Afin de terminer cet exercice, vous devrez mettre à jour la valeur contenue dans le numéro de variable en utilisant la valeur actuellement contenue comme argument dans l'instruction.
+
+Cela peut être fait en utilisant l'opérateur d'affectation = de la manière suivante :
+
+Par exemple. nombre = nombre + 4
+
+Supposons que nombre ait actuellement la valeur 3. Cela signifie que l'instruction ci-dessus est équivalente à nombre = 3 + 4. Ainsi, via l'opérateur d'affectation, la nouvelle valeur de nombre sera 7.
+
+
+
+Utilisez les opérateurs arithmétiques de la manière et dans l’ordre dans lesquels ils sont répertoriés ci-dessous. Pour ceux qui en ont envie, essayez de vous mettre au défi en effectuant toutes les opérations en une seule déclaration en vous rappelant les règles du PEMDAS.
+
+Utilisez l'opérateur de multiplication * pour doubler la valeur de la variable number et stocker le résultat dans number .
+
+  Utilisez l'opérateur d'addition + pour ajouter 9 à la variable number et stocker le résultat dans number .
+
+Utilisez l'opérateur de soustraction - pour soustraire 3 du numéro de variable et stocker le résultat dans le numéro .nouvelle valeur.
+
+Utilisez l'opérateur de division / pour diviser le nombre variable par 2 et stocker le résultat dans nombre .
+
+Utilisez l'opérateur de soustraction - pour soustraire la variable nommée original_number de la variable number et stocker le résultat dans number .
+
+Utilisez l'opérateur modulo % pour trouver le reste de la nouvelle valeur une fois divisée par 3 et stockez le résultat dans number .

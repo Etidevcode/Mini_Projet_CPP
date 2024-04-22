@@ -1,0 +1,20 @@
+Utilisation des valeurs d'argument par défaut - Liste d'épicerie
+Dans cet exercice, vous allez créer un programme qui sera utilisé pour imprimer automatiquement une liste de courses. La plupart des semaines, la liste de courses est la même et vous pouvez donc commencer par déclarer le prototype de fonction print_grocery_list qui a les valeurs d'argument par défaut :
+
+mangues = 13
+
+pommes = 3
+
+oranges = 7
+
+La fonction print_grocery_list n'a pas d'instruction return et le type de retour du prototype de fonction doit donc être nul.
+
+IMPORTANT : avant de déclarer le prototype de fonction, lisez l'intégralité de l'exercice pour déterminer le bon ordre des arguments dans la liste des paramètres de la fonction. N'oubliez pas que les valeurs d'argument par défaut qui ne changent pas doivent être placées à la fin de la liste des paramètres, et que celles qui changent le plus souvent doivent être placées au début.
+
+Une fois le prototype de fonction déclaré, complétez la liste des paramètres de la définition de la fonction en bas du fichier.
+
+Maintenant, imprimez la liste d'épicerie de cette semaine en appelant la fonction print_grocery_list à partir du corps de la fonction modifier_grocery_list.
+
+La semaine suivante, vous décidez que vous aimeriez 5 pommes au lieu de 3. Imprimez la nouvelle liste d'épicerie en appelant la fonction print_grocery_list à partir du corps de la fonction modifier_grocery_list et en passant le nouvel argument pommes.
+
+Pour la dernière semaine, vous organisez une fête et souhaitez servir un punch aux fruits. Vous aurez donc besoin de 7 pommes, 11 oranges et du nombre de mangues par défaut. Imprimez la nouvelle liste d'épicerie en appelant la fonction print_grocery_list à partir du corps de la fonction modifier_grocery_list et en passant les nouveaux arguments pommes et oranges.

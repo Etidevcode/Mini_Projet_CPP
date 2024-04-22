@@ -1,0 +1,22 @@
+Passer des tableaux aux fonctions - Imprimer une liste d'invités
+Dans cet exercice, vous allez créer un programme qui sera utilisé pour imprimer la liste des invités d'un événement, puis effacer la liste des invités une fois l'événement terminé.
+
+Commencez par compléter les prototypes de fonction print_guest_list et clear_guest_list qui reçoivent tous deux un tableau de std::string et une valeur size_t. Assurez-vous que le tableau ne peut pas être modifié dans la fonction print_guest_list en utilisant le mot-clé const dans la liste des paramètres.
+
+Maintenant que les prototypes de fonctions ont été déclarés, définissez en bas du fichier les deux fonctions.
+
+Les fonctions print_guest_list et clear_guest_list recevront l'argument de tableau guest_list et l'argument size_t guest_list_size qui vous ont tous deux été fournis.
+
+La fonction print_guest_list doit imprimer les valeurs contenues dans guest_list de gauche à droite, chaque élément étant imprimé sur une nouvelle ligne. Utilisez une boucle for pour parcourir le tableau.
+
+La fonction clear_guest_list doit remplacer chaque élément du tableau par la valeur de chaîne " ", un seul espace. Utilisez une boucle for pour parcourir le tableau.
+
+Maintenant, à partir du corps de la fonction event_guest_list, effectuez les appels de fonction suivants dans cet ordre :
+
+print_guest_list
+
+clear_guest_list
+
+print_guest_list
+
+et en passant l'argument du tableau guest_list et l'argument size_t guest_list_size à chaque appel de fonction.

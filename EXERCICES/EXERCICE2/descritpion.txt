@@ -1,0 +1,14 @@
+Utilisation de cout et de l'opérateur d'insertion
+Dans cet exercice, vous écrirez une déclaration en utilisant cout et l'opérateur d'insertion << pour afficher le nombre de chiens que possède Sally.
+
+La variable x représente le nombre de chiens.
+
+x a déjà été déclaré et initialisé pour vous.
+
+Le résultat devrait indiquer « Sally a 3 chiens. ».
+
+Pour cet exercice, il n'est PAS nécessaire d'utiliser le caractère '\n' ou endl pour créer une nouvelle ligne après l'instruction de sortie.
+
+Remarque : une seule instruction cout est requise pour cet exercice. Aucun autre code ne devrait être nécessaire.
+
+Vous pouvez trouver ma solution en cliquant sur le fichier solution.txt dans le volet de gauche. Mais assurez-vous d’essayer vous-même d’abord et ne vérifiez la solution que si vous êtes vraiment bloqué.

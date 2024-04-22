@@ -1,0 +1,6 @@
+Utilisation de la boucle for basée sur une plage
+Utilisez une boucle for basée sur une plage pour parcourir un vecteur d'entiers donné et déterminer combien d'éléments du vecteur sont divisibles de manière égale par 3 ou par 5.
+
+Le résultat final doit être stocké dans une variable entière nommée count .
+
+Le vecteur d'entiers vous a été fourni et s'appelle vec .

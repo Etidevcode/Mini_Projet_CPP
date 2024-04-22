@@ -1,0 +1,18 @@
+Fonctions et prototypes - Conversion des températures
+Dans cet exercice, vous allez créer un programme qui sera utilisé pour convertir les températures Fahrenheit en températures Celsius et Kelvin grâce à l'utilisation de deux fonctions.
+
+Pour ce programme, supposons que la température soit représentée par une valeur double.
+
+Commencez par définir les prototypes de fonction pour les fonctions fahrenheit_to_celsius et fahrenheit_to_kelvin qui reçoivent toutes deux une valeur double et renvoient une valeur double.
+
+Maintenant, au bas du fichier, écrivez les définitions complètes des deux fonctions.
+
+La fonction fahrenheit_to_celsius reçoit une température Fahrenheit et renvoie une température Celsius arrondie. Vous pouvez utiliser la fonction <cmath> round afin d'arrondir la valeur de retour. La formule pour convertir les degrés Fahrenheit en Celsius est (5,0/9,0)*(température - 32).
+
+La fonction fahrenheit_to_kelvin reçoit une température Fahrenheit et renvoie une température Kelvin arrondie. La formule pour convertir les degrés Fahrenheit en Kelvin est (5,0/9,0)*(température - 32) + 273.
+
+N'oubliez pas les règles du PEMDAS lors de la définition du corps de vos fonctions.
+
+Maintenant, depuis la fonction temperature_conversion, déclarez et initialisez les variables celsius_temperature et kelvin_temperature en appelant les fonctions appropriées que vous venez de définir et en passant la variable fahrenheit_temperature.
+
+Vous n'avez pas besoin de déclarer ou d'initialiser fahrenheit_temperature car il est déjà disponible en tant que paramètre de la fonction temperature_conversion.

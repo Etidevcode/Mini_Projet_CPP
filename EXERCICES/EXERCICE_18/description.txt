@@ -1,0 +1,35 @@
+Exercice en boucle à faire pendant
+Exercice : Trouver la première voyelle d'un vecteur
+
+Spécification : écrivez un programme C++ qui utilise une boucle do-while pour trouver la première voyelle anglaise dans un std::vecteur de caractères codé en dur. Le vecteur doit contenir un mélange de voyelles et de consonnes (par exemple : {'h', 'e', 'l', 'l', 'o'}). Le programme doit imprimer la première voyelle trouvée dans le vecteur. Si aucune voyelle n'est trouvée, il doit imprimer un message indiquant qu'aucune voyelle n'a été trouvée.
+
+Instructions
+
+Vous écrirez votre code dans la fonction fournie find_first_vowel(const std::vector<char>& vec). Ne modifiez pas le nom de la fonction ou son paramètre.
+
+Boucle Do-While : utilisez une boucle do-while pour parcourir les caractères du std::vector<char> fourni nommé vec.
+
+Identification des voyelles : à chaque itération, vérifiez si le caractère actuel est une voyelle anglaise minuscule (« a », « e », « i », « o », « u »).
+
+Sortir:
+
+Si une voyelle est trouvée, utilisez cout pour afficher : « Voyelle trouvée : » suivi de la voyelle.
+
+Si aucune voyelle n'est trouvée dans l'ensemble du vecteur, afficher : "Aucune voyelle n'a été trouvée".
+
+Exemples : Voici quelques exemples de vecteurs et le résultat attendu :
+
+Pour le vecteur {'f','r','a','n','k'}, votre fonction doit afficher : Voyelle trouvée : a.
+
+Pour le vecteur {'F','R','A','N','K'}, votre fonction devrait afficher : Aucune voyelle n'a été trouvée.
+
+Pour le vecteur {'h','e','l','l','o'}, votre fonction doit afficher : Voyelle trouvée : e.
+
+Pour un vecteur vide {}, votre fonction devrait afficher : Aucune voyelle n'a été trouvée.
+
+Pour le vecteur {'x', 'y', 'z', 'o'}, votre fonction doit afficher : Voyelle trouvée : o.
+
+Ne pas ajouter de sauts de ligne : assurez-vous de ne pas ajouter std::endl ou '\n' à votre sortie.
+
+Placement du code : écrivez votre code entre les commentaires
+//---- ÉCRIVEZ VOTRE CODE SOUS CETTE LIGNE---- et //---- ÉCRIVEZ VOTRE CODE AU-DESSUS DE CETTE LIGNE----.

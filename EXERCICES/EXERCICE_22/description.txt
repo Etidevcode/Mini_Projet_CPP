@@ -1,0 +1,10 @@
+Utiliser des chaînes C++ - Exercice 2
+Dans cet exercice, vous allez créer un programme qui sera utilisé dans une bibliothèque numérique pour formater et trier les entrées de journal en fonction du nom de famille de l'auteur. Chaque entrée dispose d'un espace pour stocker uniquement le nom de famille de l'auteur.
+
+Commencez par supprimer le prénom "Isaac" de la variable chaîne journal_entry_1 en utilisant la fonction de chaîne effacer. N'oubliez pas de supprimer également les espaces afin que la variable chaîne journal_entry_1 contienne alors la chaîne "Newton" sans espaces.
+
+Les entrées du journal doivent être triées par ordre alphabétique en fonction du nom de famille des auteurs. Par exemple, le nom de famille « Brown » doit être placé avant le nom de famille « Davis ».
+
+Créez une instruction if de sorte que si le nom de famille contenu dans journal_entry_2 est alphabétiquement inférieur au nom de famille contenu dans journal_entry_1, alors les valeurs de chaîne sont échangées à l'aide de la fonction de chaîne swap.
+
+Vous pouvez utiliser l'un ou l'autre des opérateurs de comparaison < > dans l'instruction if, mais n'oubliez pas qu'après ASCII, « A » est lexicographiquement inférieur à « B ».

@@ -1,0 +1,12 @@
+Déclaration et initialisation de variables
+Dans cet exercice, vous écrirez du code qui crée un profil pour un nouvel employé dans une entreprise.
+
+Vous devez déclarer un total de TROIS variables, chacune d'un type différent, pour représenter le nom, l'âge et le salaire horaire de l'employé.
+
+l'âge devrait être un entier
+hour_wage devrait être un double , et
+le nom doit être une chaîne
+
+Vous devez initialiser le hour_wage à 23h50. Afin de définir les valeurs de nom et d'âge, vous devez utiliser cin et l'opérateur d'extraction >> pour permettre à l'employé de saisir son nom et son âge dans cet ordre, séparés par un seul espace.
+
+Vous n'êtes pas obligé de fournir d'instructions de sortie. Notre code de test fournira automatiquement les valeurs de nom et d'âge pour tester votre code.

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="EXERCICES" Database="" Version="10000">
+  <Project Name="EXERCICE1" Path="EXERCICE1/EXERCICE1.project" Active="No"/>
+  <Project Name="EXERCICE2" Path="EXERCICE2/EXERCICE2.project" Active="No"/>
+  <Project Name="EXERCICE3" Path="EXERCICE3/EXERCICE3.project" Active="No"/>
+  <Project Name="EXERCICE4" Path="EXERCICE4/EXERCICE4.project" Active="No"/>
+  <Project Name="EXERCICE5" Path="EXERCICE5/EXERCICE5.project" Active="No"/>
+  <Project Name="EXERCICE6" Path="EXERCICE6/EXERCICE6.project" Active="No"/>
+  <Project Name="EXERCICE7" Path="EXERCICE7/EXERCICE7.project" Active="No"/>
+  <Project Name="EXERCICE8" Path="EXERCICE8/EXERCICE8.project" Active="No"/>
+  <Project Name="EXERCICE9" Path="EXERCICE9/EXERCICE9.project" Active="No"/>
+  <Project Name="EXERCICE_10" Path="EXERCICE_10/EXERCICE_10.project" Active="No"/>
+  <Project Name="EXERCICE_11" Path="EXERCICE_11/EXERCICE_11.project" Active="No"/>
+  <Project Name="EXERCICE_12" Path="EXERCICE_12/EXERCICE_12.project" Active="No"/>
+  <Project Name="EXERCICE_13" Path="EXERCICE_13/EXERCICE_13.project" Active="No"/>
+  <Project Name="EXERCICE_14" Path="EXERCICE_14/EXERCICE_14.project" Active="No"/>
+  <Project Name="EXERCICE_15" Path="EXERCICE_15/EXERCICE_15.project" Active="No"/>
+  <Project Name="EXERCICE_16" Path="EXERCICE_16/EXERCICE_16.project" Active="No"/>
+  <Project Name="EXERCICE_17" Path="EXERCICE_17/EXERCICE_17.project" Active="No"/>
+  <Project Name="EXERCICE_18" Path="EXERCICE_18/EXERCICE_18.project" Active="No"/>
+  <Project Name="EXERCICE_19" Path="EXERCICE_19/EXERCICE_19.project" Active="No"/>
+  <Project Name="EXERCICE_20" Path="EXERCICE_20/EXERCICE_20.project" Active="No"/>
+  <Project Name="EXERCICE_21" Path="EXERCICE_21/EXERCICE_21.project" Active="No"/>
+  <Project Name="EXERCICE_22" Path="EXERCICE_22/EXERCICE_22.project" Active="No"/>
+  <Project Name="EXERCICE_23" Path="EXERCICE_23/EXERCICE_23.project" Active="No"/>
+  <Project Name="EXERCICE_24" Path="EXERCICE_24/EXERCICE_24.project" Active="No"/>
+  <Project Name="EXERCICE_25" Path="EXERCICE_25/EXERCICE_25.project" Active="No"/>
+  <Project Name="EXERCICE_26" Path="EXERCICE_26/EXERCICE_26.project" Active="No"/>
+  <Project Name="EXERCICE_27" Path="EXERCICE_27/EXERCICE_27.project" Active="No"/>
+  <Project Name="EXERCICE_28" Path="EXERCICE_28/EXERCICE_28.project" Active="No"/>
+  <Project Name="EXERCICE_29" Path="EXERCICE_29/EXERCICE_29.project" Active="No"/>
+  <Project Name="EXERCICE_30" Path="EXERCICE_30/EXERCICE_30.project" Active="No"/>
+  <Project Name="EXERCICE_31" Path="EXERCICE_31/EXERCICE_31.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="EXERCICE1" ConfigName="Debug"/>
+      <Project Name="EXERCICE2" ConfigName="Debug"/>
+      <Project Name="EXERCICE3" ConfigName="Debug"/>
+      <Project Name="EXERCICE4" ConfigName="Debug"/>
+      <Project Name="EXERCICE5" ConfigName="Debug"/>
+      <Project Name="EXERCICE6" ConfigName="Debug"/>
+      <Project Name="EXERCICE7" ConfigName="Debug"/>
+      <Project Name="EXERCICE8" ConfigName="Debug"/>
+      <Project Name="EXERCICE9" ConfigName="Debug"/>
+      <Project Name="EXERCICE_10" ConfigName="Debug"/>
+      <Project Name="EXERCICE_11" ConfigName="Debug"/>
+      <Project Name="EXERCICE_12" ConfigName="Debug"/>
+      <Project Name="EXERCICE_13" ConfigName="Debug"/>
+      <Project Name="EXERCICE_14" ConfigName="Debug"/>
+      <Project Name="EXERCICE_15" ConfigName="Debug"/>
+      <Project Name="EXERCICE_16" ConfigName="Debug"/>
+      <Project Name="EXERCICE_17" ConfigName="Debug"/>
+      <Project Name="EXERCICE_18" ConfigName="Debug"/>
+      <Project Name="EXERCICE_19" ConfigName="Debug"/>
+      <Project Name="EXERCICE_20" ConfigName="Debug"/>
+      <Project Name="EXERCICE_21" ConfigName="Debug"/>
+      <Project Name="EXERCICE_22" ConfigName="Debug"/>
+      <Project Name="EXERCICE_23" ConfigName="Debug"/>
+      <Project Name="EXERCICE_24" ConfigName="Debug"/>
+      <Project Name="EXERCICE_25" ConfigName="Debug"/>
+      <Project Name="EXERCICE_26" ConfigName="Debug"/>
+      <Project Name="EXERCICE_27" ConfigName="Debug"/>
+      <Project Name="EXERCICE_28" ConfigName="Debug"/>
+      <Project Name="EXERCICE_29" ConfigName="Debug"/>
+      <Project Name="EXERCICE_30" ConfigName="Debug"/>
+      <Project Name="EXERCICE_31" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="EXERCICE1" ConfigName="Release"/>
+      <Project Name="EXERCICE2" ConfigName="Release"/>
+      <Project Name="EXERCICE3" ConfigName="Release"/>
+      <Project Name="EXERCICE4" ConfigName="Release"/>
+      <Project Name="EXERCICE5" ConfigName="Release"/>
+      <Project Name="EXERCICE6" ConfigName="Release"/>
+      <Project Name="EXERCICE7" ConfigName="Release"/>
+      <Project Name="EXERCICE8" ConfigName="Release"/>
+      <Project Name="EXERCICE9" ConfigName="Release"/>
+      <Project Name="EXERCICE_10" ConfigName="Release"/>
+      <Project Name="EXERCICE_11" ConfigName="Release"/>
+      <Project Name="EXERCICE_12" ConfigName="Release"/>
+      <Project Name="EXERCICE_13" ConfigName="Release"/>
+      <Project Name="EXERCICE_14" ConfigName="Release"/>
+      <Project Name="EXERCICE_15" ConfigName="Release"/>
+      <Project Name="EXERCICE_16" ConfigName="Release"/>
+      <Project Name="EXERCICE_17" ConfigName="Release"/>
+      <Project Name="EXERCICE_18" ConfigName="Release"/>
+      <Project Name="EXERCICE_19" ConfigName="Release"/>
+      <Project Name="EXERCICE_20" ConfigName="Release"/>
+      <Project Name="EXERCICE_21" ConfigName="Release"/>
+      <Project Name="EXERCICE_22" ConfigName="Release"/>
+      <Project Name="EXERCICE_23" ConfigName="Release"/>
+      <Project Name="EXERCICE_24" ConfigName="Release"/>
+      <Project Name="EXERCICE_25" ConfigName="Release"/>
+      <Project Name="EXERCICE_26" ConfigName="Release"/>
+      <Project Name="EXERCICE_27" ConfigName="Release"/>
+      <Project Name="EXERCICE_28" ConfigName="Release"/>
+      <Project Name="EXERCICE_29" ConfigName="Release"/>
+      <Project Name="EXERCICE_30" ConfigName="Release"/>
+      <Project Name="EXERCICE_31" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

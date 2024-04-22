@@ -1,0 +1,31 @@
+Utiliser cout et l'opérateur d'insertion pour dire bonjour à Frank
+IMPORTANT
+
+INSTRUCTIONS GÉNÉRALES POUR L’EXERCICE DE CODAGE
+Lisez s'il vous plaît
+--------------------------------------
+
+Ces exercices de codage sont conçus pour être exécutés dans l'environnement de test Udemy de votre navigateur.
+
+N'essayez PAS d'exécuter ces exercices de codage dans votre IDE car vous rencontrerez des problèmes.
+
+
+Notez que les exercices de codage ne disposent pas de fonction main().
+C'est parce que j'utilise la fonction main() de mon côté pour appeler et tester votre code.
+
+Dans certains exercices de codage, vous verrez peut-être des éléments de code dont nous n'avons pas encore parlé.
+C'est parce que j'en ai besoin pour pouvoir exécuter et tester votre code.
+Vous n'avez pas à vous inquiéter de ne pas les connaître.
+
+Il vous suffit de saisir votre code entre les commentaires fournis.
+
+//--- ÉCRIVEZ VOTRE CODE SOUS CETTE LIGNE----
+     
+//--- ÉCRIVEZ VOTRE CODE AU-DESSUS DE CETTE LIGNE----
+Le code que vous saisirez sera celui abordé dans les conférences associées.
+
+Amusez-vous et profitez de ces exercices de codage pour vous entraîner !
+
+Enfin, il arrive parfois que le code ne s’affiche pas correctement dans le navigateur et qu’il semble manquer certaines parties. J'encourage tout le monde à cliquer sur le bouton « Réinitialiser » la première fois qu'il tente un exercice de codage. Cela garantira que le code s’affichera correctement dans le navigateur.
+
+FIN DES INSTRUCTIONS

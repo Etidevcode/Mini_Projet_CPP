@@ -1,0 +1,14 @@
+Utiliser des chaînes C++ - Exercice 1
+Dans cet exercice, vous allez créer un programme qui sera utilisé pour reformater un nom afin qu'il puisse être lu plus facilement.
+
+La variable chaîne unformatted_full_name est composée de deux sous-chaînes ; prénom et nom dans cet ordre. Chaque sous-chaîne commence par une lettre majuscule.
+
+Commencez par déclarer et initialiser la variable chaîne first_name à partir de la variable chaîne unformatted_full_name en vous rappelant que lors de l'initialisation à partir d'une autre chaîne, le premier entier entre accolades représente l'index de départ de la sous-chaîne que vous souhaitez copier et le deuxième entier représente la longueur de la sous-chaîne. .
+
+Ensuite, déclarez et initialisez la variable chaîne last_name en utilisant l'opérateur d'affectation = et la fonction chaîne substr sur la variable chaîne unformatted_full_name.
+
+Ensuite, déclarez et initialisez la variable chaîne formatted_full_name. Cela doit être fait via l'utilisation de l'opérateur de concaténation + en concaténant les variables de chaîne first_name et last_name dans cet ordre, puis en attribuant la chaîne concaténée à formatted_full_name à l'aide de l'opérateur d'affectation =.
+
+Désormais, la variable chaîne formatted_full_name contient la chaîne "StephenHawking". Nous voyons que la chaîne n'est pas plus formatée que la variable de chaîne d'origine unformatted_full_name et cela est dû au fait que l'opérateur d'addition + n'ajoute pas d'espace entre les chaînes lors de leur concaténation.
+
+Heureusement, nous pouvons utiliser la fonction de chaîne insert sur la variable chaîne formatted_full_name pour insérer un espace entre les sous-chaînes de telle sorte que formatted_full_name contiendra alors la chaîne "Stephen Hawking".

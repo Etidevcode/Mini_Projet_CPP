@@ -1,0 +1,13 @@
+Utiliser des chaînes de style C
+Dans cet exercice, vous allez créer un programme qui détermine la longueur d'un prénom et d'un nom individuellement, puis la longueur du nom entier grâce à l'utilisation des fonctions de chaîne de style C strlen, strcpyet strcat.
+
+Commencez par déclarer et initialiser la variable de chaîne de style C first_namepour contenir "Bjarne".
+Maintenant, déclarez et initialisez une deuxième variable de chaîne de style C last_name pour contenir "Stroustrup".
+Vous devez également déclarer une troisième variable chaîne de style C whole_namemais ne pas encore l'initialiser. N'oubliez pas que la variable whole_name doit être suffisamment grande pour contenir le prénom et le nom sans espaces.
+
+Maintenant, en utilisant la fonction de chaîne de style C strlen, déclarez et initialisez la variable first_name_length pour contenir la longueur de la first_name chaîne et la variable last_name_lengthpour contenir la longueur de la last_namechaîne.
+
+
+À l’aide de la fonction de chaîne de style C strcpy, copiez la first_namechaîne dans la variable chaîne whole_name.
+Maintenant, en utilisant la fonction de chaîne de style C strcat, concaténez la chaîne last_name à la fin de la chaîne whole_name.
+Enfin, en utilisant la fonction de chaîne de style C strlen, déclarez et initialisez la variable whole_name_length pour contenir la longueur de la chaîne whole_name.

@@ -1,0 +1,13 @@
+Utilisation de cin et de l'opérateur d'extraction
+Dans cet exercice, vous écrirez du code en utilisant cin et l'opérateur d'extraction >> pour permettre à un utilisateur de saisir sa date de naissance.
+
+
+La variable m représente le mois, d représente le jour et y représente l'année.
+Supposons que l'utilisateur entre sa date de naissance dans l'ordre du mois, du jour, de l'année, chaque valeur étant séparée par un espace.
+
+Vous n'avez pas besoin de demander des informations à l'utilisateur à l'aide de cout
+
+Notre programme de test se fera automatiquement passer pour l'utilisateur et saisira automatiquement les valeurs 2, 15 et 1993.
+
+
+Ainsi, votre code ne doit être constitué que de la ou des instructions cin. Aucun autre code ne devrait être nécessaire.

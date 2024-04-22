@@ -1,0 +1,32 @@
+Implémentation d'une fonction récursive - Économisez un centime
+Dans cet exercice, vous allez créer un programme qui calcule le montant total d'argent qui sera accumulé si vous commencez avec un centime et que vous le doublerez chaque jour pendant n jours.
+
+Par exemple.
+
+Jour 1 : 0,01 $
+
+Jour 2 : 0,02 $
+
+Jour 3 : 0,04 $
+
+. . .
+
+. . .
+
+. . .
+
+Jour 16 : 327,68 $
+
+Jour 17 : 655,36 $
+
+Jour 18 : 1 310,72 $
+
+Pour ce programme, supposons que tout l’argent sera représenté comme une valeur double et qu’un centime sera donc représenté par 0,01.
+
+Commencez par compléter le prototype de fonction a_penny_doubled_everyday auquel est transmis un int et un double.
+
+Maintenant que le prototype de fonction est déclaré, définissez la fonction en bas du fichier.
+
+La fonction doit renvoyer le total_amount accumulé après n jours. Par exemple, si n = 18, la fonction doit renvoyer 1310,72. La fonction devrait être capable de calculer le total_amount pour n'importe quel nombre de jours en commençant par n'importe quel montant, mais le montant par défaut devrait être d'un centime.
+
+Maintenant, à partir du corps de la fonction montant_accumulé, déclarez et initialisez la variable total_amount en appelant la fonction a_penny_doubled_everyday pour n = 25 jours.

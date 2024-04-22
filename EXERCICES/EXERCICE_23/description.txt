@@ -1,0 +1,18 @@
+Utilisation des fonctions de la bibliothèque cmath
+Dans cet exercice, vous allez créer un programme qui sera utilisé comme système POS (Point of Sale) dans un restaurant. Le bill_total est donné ainsi que le number_of_guests. Les 5 invités partageront la facture de manière égale et la facture individuelle sera donc bill_total / number_of_guests. Le PDV sera utilisé à trois endroits différents, chacun avec des directives différentes pour l'impression des factures.
+
+À l'emplacement 1, individual_bill_1 arrondit toujours au dollar inférieur.
+
+À l'emplacement 2, individual_bill_2 arrondit toujours au dollar le plus proche.
+
+À l'emplacement 3, individual_bill_3 arrondit toujours au centime supérieur.
+
+Déterminez quel sera le individual_bill à chacun des emplacements.
+
+Commencez par déclarer et initialiser individual_bill.
+
+Maintenant, déclarez et initialisez individual_bill_1 en utilisant la fonction <cmath> floor avec individual_bill comme argument.
+
+Ensuite, déclarez et initialisez individual_bill_2 en utilisant la fonction <cmath> avec individual_bill comme argument.
+
+Enfin, déclarez et initialisez individual_bill_3 en utilisant la fonction <cmath> ceil avec individual_bill comme argument. Afin d'arrondir individual_bill_3 au centime le plus proche, vous devez multiplier l'argument de la fonction ceil par 100 puis diviser le résultat de la fonction par 100.

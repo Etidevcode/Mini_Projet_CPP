@@ -1,0 +1,12 @@
+Boucles imbriquées - Somme du produit de toutes les paires d'éléments vectoriels
+Étant donné un vecteur d'entiers nommé vec qui vous est fourni, trouvez la somme du produit de toutes les paires d'éléments vectoriels.
+Vous devez déclarer une variable entière nommée result et stocker le produit final dans cette variable.
+
+Par exemple, étant donné que le vecteur vec est {1, 2 , 3} , les paires possibles sont (1,2), (1,3) et (2,3) .
+Le résultat serait donc (1*2) + (1*3) + (2*3) qui vaut 11 .
+
+Un autre exemple:
+Étant donné que le vecteur vec est {2, 4, 6, 8} , les paires possibles sont (2,4), (2,6), (2,8), (4,6), (4,8), et (6,8) .
+Le résultat serait donc (2*4) + (2*6) + (2*8) + (4*6) + (4*8) + (6*8) qui vaut 140 .
+
+Si le vecteur est vide ou ne contient qu'un seul élément, le résultat doit être 0 .

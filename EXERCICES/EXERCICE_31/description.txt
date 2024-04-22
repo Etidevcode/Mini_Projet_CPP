@@ -1,0 +1,33 @@
+Échanger des valeurs à l'aide de pointeurs
+Spécification:
+
+Écrivez une fonction C++ swap_pointers qui prend deux pointeurs entiers en entrée et échange les valeurs vers lesquelles ils pointent. Vous pouvez utiliser une variable temporaire si vous le souhaitez, mais essayez de le faire sans utiliser de variables temporaires.
+
+Signature de fonction :
+
+void swap_pointers(int* ptr1, int* ptr2);
+Saisir:
+
+ptr1 : un pointeur vers un entier.
+
+ptr2 : un pointeur vers un entier.
+
+Sortir:
+
+La fonction doit modifier les valeurs stockées aux emplacements mémoire pointés par ptr1 et ptr2, en échangeant efficacement leurs valeurs.
+
+Exemple:
+
+entier un {5} ;
+int b {10} ;
+ 
+int* ptrA = &a;
+int* ptrB = &b;
+ 
+swap_pointers(ptrA, ptrB);
+ 
+// Après l'appel de la fonction, les valeurs doivent être échangées.
+// une == 10, b == 5
+Note:
+
+Supposons que les deux pointeurs d’entrée sont valides et pointent vers des emplacements mémoire valides.

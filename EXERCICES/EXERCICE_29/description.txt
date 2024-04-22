@@ -1,0 +1,54 @@
+Implémentation d'une fonction récursive - Somme de chiffres
+Titre du problème : Somme de chiffres utilisant la récursivité
+
+Description du problème:
+
+Écrivez un programme C++ pour trouver la somme des chiffres d'un nombre en utilisant la récursion.
+
+Vous devez implémenter la fonction int sum_of_digits(int n) qui prend un entier n comme argument et renvoie la somme de ses chiffres.
+
+Signature de fonction :
+
+int somme_de_chiffres (int n)
+
+Saisir:
+
+Un nombre entier
+
+Sortir:
+
+Renvoie la somme des chiffres de n.
+
+Exemple:
+
+Saisir:
+
+n = 1234
+
+Sortir:
+
+dix
+
+Explication:
+
+La somme des chiffres de 1234 est 1 + 2 + 3 + 4 = 10.
+
+Voici quelques exemples supplémentaires :
+
+Cas de test 1 :
+
+Entrée : n = 5678
+
+Sortie : 26
+
+Cas de test 2 :
+
+Entrée : n = 9999
+
+Sortie : 36
+
+Cas de test 3 :
+
+Entrée : n = 1000
+
+Sortie : 1

@@ -1,0 +1,15 @@
+Exercice en boucle while
+
+Étant donné un vecteur d'entiers, déterminez combien d'entiers sont présents avant de voir la valeur -99 . 
+
+Attention, il est possible que -99 ne soit pas dans le vecteur ! 
+
+Si -99 n'est pas dans le vecteur alors le résultat sera égal au nombre d'éléments dans le vecteur.
+
+Le résultat final doit être stocké dans une variable entière nommée count .
+
+Notez que les différents vecteurs seront testés par rapport à votre code. 
+
+Vous n'avez pas besoin de déclarer le vecteur d'entiers. 
+
+vec est le nom du vecteur que vous devez utiliser.

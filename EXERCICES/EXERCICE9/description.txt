@@ -1,0 +1,12 @@
+Opérateurs logiques et priorité des opérateurs - Pouvez-vous travailler ?
+Dans cet exercice, vous allez créer un programme qui détermine l'éligibilité d'une personne postulant à un emploi de chauffeur-livreur.
+
+Pour qu'une personne soit éligible, elle doit être âgée de 18 ans ou plus, ou avoir plus de 15 ans et avoir le consentement de ses parents pour travailler. De plus, ils doivent posséder un numéro de sécurité sociale valide et n’avoir aucun accident de conduite.
+
+Supposons que la variable age représente l'âge de l'individu et que les variables booléennes parental_consent représentent le consentement parental, que le Ssn représente un numéro de sécurité sociale valide et que les accidents représentent s'ils ont eu des accidents de voiture.
+
+Vous n'avez pas besoin de déclarer ces variables, elles seront automatiquement définies sur différentes valeurs par notre testeur automatisé.
+
+Pour cet exercice, vous écrirez votre code entre parenthèses de l’instruction if fournie.
+
+Dans le cas où la personne ne peut pas travailler, n'affichez aucune sortie - notre testeur suppose qu'aucune sortie signifie que la personne ne peut pas travailler.

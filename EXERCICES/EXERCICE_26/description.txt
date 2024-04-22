@@ -1,0 +1,22 @@
+Fonctions de surcharge - Zone de calcul
+Dans cet exercice, vous allez créer un programme qui calcule l'aire de deux formes, un carré et un rectangle, en appelant la fonction surchargée find_area.
+
+Commencez par déclarer les prototypes de fonction pour la fonction carrée find_area et la fonction rectangle find_area.
+
+La fonction carrée find_area reçoit une valeur entière et renvoie une valeur entière.
+
+La fonction rectangle find_area reçoit deux valeurs doubles et renvoie une valeur double.
+
+N'oubliez pas que les deux prototypes de fonction doivent avoir le même nom de fonction find_area.
+
+Maintenant que les prototypes de fonctions ont été déclarés, définissez en bas du fichier les deux fonctions.
+
+La fonction square find_area recevra l'argument side_length et renverra l'aire du carré. La formule pour l'aire d'un carré est side_length*side_length . Vous pouvez utiliser la fonction <cmath> pow pour calculer cette valeur si vous le souhaitez.
+
+La fonction rectangle find_area recevra les arguments longueur et largeur et renverra l'aire du rectangle. La formule pour l’aire d’un rectangle est longueur*largeur.
+
+Maintenant, à partir du corps de la fonction Area_calc, déclarez et initialisez les variables square_area et rectangle_area en appelant la fonction find_area et en passant les arguments appropriés répertoriés ci-dessous.
+
+Le carré a une side_length de 2.
+
+Le rectangle a une longueur de 4,5 et une largeur de 2,3.

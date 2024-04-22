@@ -1,0 +1,8 @@
+Déclaration If-Else – Pouvez-vous conduire ?
+Dans cet exercice, vous utiliserez une simple instruction if/else pour décider si quelqu’un peut conduire. Supposons que toute personne âgée de 16 ans ou plus puisse légalement conduire.
+
+Si la personne peut légalement conduire, votre programme devrait afficher « Oui, vous pouvez conduire ! » en utilisant une instruction cout. Vous n'êtes pas obligé de fournir un '\n' ou un endl .
+
+Si la personne ne peut pas légalement conduire, alors votre programme devrait afficher « Désolé, revenez dans n ans », où n représente le nombre d'années restant avant que la personne n'atteigne l'âge de 16 ans.
+
+L'âge vous sera fourni, vous n'avez PAS besoin de déclarer votre âge. Nos cas de test fourniront différentes valeurs d'âge pour tester votre code.

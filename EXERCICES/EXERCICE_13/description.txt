@@ -1,0 +1,18 @@
+Déclaration de commutation – Jour de la semaine
+Dans cet exercice, vous écrirez une instruction switch qui affiche le nom du jour de la semaine en fonction du code du jour.
+
+Vous pouvez utiliser la variable entière nommée day_code dont nous changerons automatiquement la valeur pour tester votre code.
+Vous n'avez PAS besoin de déclarer cette variable.
+
+Compte tenu des codes des jours suivants, votre programme doit afficher le jour de la semaine à l'aide d'une instruction cout. Aucun '\n' ou endl ne doit être utilisé.
+
+Day Code        Display
+--------        ------------------------
+   0            Sunday
+   1            Monday
+   2            Tuesday
+   3            Wednesday
+   4            Thursday
+   5            Friday
+   6            Saturday
+ other          Error - illegal day code

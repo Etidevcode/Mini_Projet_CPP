@@ -1,0 +1,10 @@
+Utilisation de l'opérateur d'affectation
+Dans cet exercice, vous écrirez un programme qui utilise l'opérateur d'affectation = pour modifier la valeur d'une variable initialisée ainsi que pour attribuer la valeur d'une variable à une autre.
+
+Commencez par déclarer et initialiser la variable entière num1 à la valeur de 13 .
+
+Déclarez et initialisez maintenant la variable entière num2 à la valeur 0 .
+
+Utilisez l'opérateur d'affectation pour modifier la valeur de num1 en 5 .
+
+Utilisez maintenant l’opérateur d’affectation pour attribuer la valeur de num1 à num2.
